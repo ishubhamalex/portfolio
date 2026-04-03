@@ -72,8 +72,9 @@ const Home = () => {
           <h2>Fields of Interest</h2>
           <div className="interest-list">
             <span>Cooking</span>
-            <span>Driving</span>
+            <span>Riding</span>
             <span>Geopolitics</span>
+            <span>Sports</span>
           </div>
         </div>
       </div>

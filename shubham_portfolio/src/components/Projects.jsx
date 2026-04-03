@@ -17,6 +17,15 @@ const Projects = () => {
         </div>
 
         <div className="project-card glass-card">
+          <h3>Pneumonia Detection using CNN</h3>
+          <p>
+            Built a deep learning model for pneumonia detection using CNN to
+            analyze medical images and assist in identifying pneumonia cases.
+          </p>
+          <p><strong>Tech Stack:</strong> Python, CNN, Deep Learning</p>
+        </div>
+
+        <div className="project-card glass-card">
           <h3>Upcoming Project</h3>
           <p>
             This section is reserved for my next project. I will update it soon
@@ -29,13 +38,7 @@ const Projects = () => {
       <h2 className="section-title">Achievements</h2>
       <div className="achievement-container">
         <div className="achievement-card glass-card">
-          <p>Pneumonia Detection using CNN Model</p>
-        </div>
-        <div className="achievement-card glass-card">
           <p>4th Rank in Status Code 1 Hackathon (Hardware Section)</p>
-        </div>
-        <div className="achievement-card glass-card">
-          <p>Participated in Status Code 2 Hackathon</p>
         </div>
         <div className="achievement-card glass-card">
           <p>250+ DSA problems solved on LeetCode and GFG</p>

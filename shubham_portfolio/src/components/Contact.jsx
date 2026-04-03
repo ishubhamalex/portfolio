@@ -11,11 +11,11 @@ const Contact = () => {
 
         <div className="contact-buttons">
           <a href="mailto:shubhamalex1602@gmail.com" className="contact-btn">
-            Email Me
+            Email
           </a>
 
           <a href="tel:9648535303" className="contact-btn">
-            Call Me
+            Call
           </a>
 
           <a
