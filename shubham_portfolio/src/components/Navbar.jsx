@@ -15,7 +15,7 @@ const Navbar = ({ darkMode, toggleTheme }) => {
       </ul>
 
       <button className="theme-btn" onClick={toggleTheme}>
-        {darkMode ? "Light" : "Dark"}
+        {darkMode ? "☀" : "🌙"}
       </button>
     </nav>
   );
